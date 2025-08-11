@@ -12,6 +12,8 @@ __pycache__/
 
 # Jupyter Notebook files
 .ipynb_checkpoints/
+data/creditcard_2023.csv
+data/creditcard.csv
 
 # Other OS-specific files
 .DS_Store
